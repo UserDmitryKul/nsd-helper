@@ -19,7 +19,7 @@
 
             <div class="info2">
             <div class="info1">
-              Тут что-то должно быть.
+              Тут что-то должно быть. featue
             </div>
               Статус заявки: {{ticket.status}} <br>
               Адрес: {{ticket.area}} <br>
