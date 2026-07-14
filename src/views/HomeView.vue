@@ -19,7 +19,7 @@
 
             <div class="info2">
             <div class="info1">
-              Приоритет капец пупупу...
+              Тут что-то должно быть.
             </div>
               Статус заявки: {{ticket.status}} <br>
               Адрес: {{ticket.area}} <br>
